@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer | Specialized in Backend Development</h3>
-<img align="right"alt="coding"width="400" src="https://www.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_25469811.htm#fromView=keyword&page=1&position=12&uuid=5a739bee-9627-4904-887b-0f968fcdc5b2&query=Coding+gif">
+<img align="right"alt="coding"width="400" src="ChatGPT Image Nov 11, 2025, 03_31_15 PM.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-yadav7&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-yadav7" /> </p>
 
