@@ -3,7 +3,7 @@
 <h2 align="center">AI Code Background</h2>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.jpg" 
+  <img src="ChatGPT Image Nov 11, 2025, 03_31_15 PM.png" 
        alt="AI Code Background" 
        width="800">
 </p>
