@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer | Specialized in Backend Development</h3>
-<h2 align="center">AI Code Background</h2>
 
-<p align="right">
-  <img src="ChatGPT Image Nov 11, 2025, 03_31_15 PM.png" 
-       alt="AI Code Background" 
+
+  <img   align="right" src="ChatGPT Image Nov 11, 2025, 03_31_15 PM.png" 
+       alt="coding" 
        width="400">
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-yadav7&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-yadav7" /> </p>
