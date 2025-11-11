@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer | Specialized in Backend Development</h3>
-<img align="right"alt="coding"width="400" src="https://www.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.htm#fromView=keyword&page=1&position=0&uuid=d9309ca7-e2dc-4d84-9bbf-bbd48b91828b&query=Ai+code">
+<h2 align="center">AI Code Background</h2>
+
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.jpg" 
+       alt="AI Code Background" 
+       width="800">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-yadav7&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-yadav7" /> </p>
 
