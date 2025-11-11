@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer | Specialized in Backend Development</h3>
 <h2 align="center">AI Code Background</h2>
 
-<p align="center">
+<p align="right">
   <img src="ChatGPT Image Nov 11, 2025, 03_31_15 PM.png" 
        alt="AI Code Background" 
-       width="800">
+       width="400">
 </p>
 
 
